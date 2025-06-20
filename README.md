@@ -11,14 +11,7 @@ Welcome to the Tomato-quiz-game! This is a simple React-based web application wh
 
 ## Installation
 
-1. Clone this repository to your local machine.
-
-```bash
-git clone https://github.com/thecodemonster1/tomato-game.git # Project Cloning
-cd tomato-game # Navigating to project folder
-```
-
-2. Install the dependencies using npm or yarn:
+1. Install the dependencies using npm or yarn:
 
 ## Modules to Install
 
