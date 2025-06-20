@@ -45,10 +45,6 @@ npm start
 - View the high score board by clicking on the "Scoreboard" button.
 - Logout by clicking on the "Logout" button.
 
-## Credits
-
-- This project was created by @theCodeMonster1.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
